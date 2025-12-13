@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2022 - To: 10 December 2025
+From: 05 January 2022 - To: 12 December 2025
 
-Total Time: 2,629 hrs 24 mins
+Total Time: 2,634 hrs 9 mins
 
-Java                       1,243 hrs 1 min >>>>>>>>>>>>-------------   47.27 %
-Swift                      243 hrs 29 mins >>-----------------------   09.26 %
-Vue.js                     112 hrs 43 mins >------------------------   04.29 %
-Other                      110 hrs 47 mins >------------------------   04.21 %
+Java                       1,246 hrs 34 mins>>>>>>>>>>>>-------------   47.32 %
+Swift                      243 hrs 29 mins >>-----------------------   09.24 %
+Vue.js                     112 hrs 43 mins >------------------------   04.28 %
+Other                      111 hrs 16 mins >------------------------   04.22 %
 HTML                       108 hrs 39 mins >------------------------   04.13 %
 ```
 
