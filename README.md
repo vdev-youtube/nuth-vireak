@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2022 - To: 18 May 2026
+From: 05 January 2022 - To: 20 May 2026
 
-Total Time: 3,130 hrs 44 mins
+Total Time: 3,142 hrs 57 mins
 
-Java                       1,464 hrs 50 mins     >>>>>>>>>>>>-------------   46.79 %
-Swift                      247 hrs 25 mins       >>-----------------------   07.90 %
-SQL                        165 hrs 48 mins       >------------------------   05.30 %
-Other                      159 hrs 50 mins       >------------------------   05.11 %
-Vue.js                     138 hrs 45 mins       >------------------------   04.43 %
+Java                       1,466 hrs 45 mins     >>>>>>>>>>>>-------------   46.67 %
+Swift                      247 hrs 36 mins       >>-----------------------   07.88 %
+SQL                        165 hrs 56 mins       >------------------------   05.28 %
+Other                      159 hrs 11 mins       >------------------------   05.07 %
+HTML                       144 hrs 45 mins       >------------------------   04.61 %
 ```
 
 <!--END_SECTION:waka-->
